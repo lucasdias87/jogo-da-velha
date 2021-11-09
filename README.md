@@ -3,4 +3,4 @@
 ## jogo da velha em java
 - Criado em sala de aula no curso Tec
 
-![alt text](https://github.com/lucasdias87/jogo-da-velha/blob/main/tela.png)
+![alt text](https://github.com/lucasdias87/jogo-da-velha/blob/main/tela.gif)
